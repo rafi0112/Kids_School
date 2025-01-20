@@ -1,0 +1,63 @@
+body{
+    max-width: 1440px;
+    background-image: url(../assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.orange{
+    color: orange;
+}
+.sky-blue{
+    color: skyblue;
+}
+.light-blue{
+    color: #05D4DF;
+}
+.purple{
+    color: #5D58EF;
+}
+.white{
+    color: white;
+}
+.display-flex{
+    display: flex;
+}
+.head{
+    max-width: 1160px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 186px;
+    padding: 30px 0px;
+}
+.navbar{
+    align-items: center;
+}
+.logo{
+    flex-direction: row;
+    align-items: center;
+}
+.logo h3{
+    font-size: 2rem;
+    font-weight: bold;
+    width: 129px;
+    padding: 0px 10px;
+}
+.logo img{
+    width: 4rem;
+    height: 4rem;
+}
+.nav-link a{
+    font-size: 1.4rem;
+    text-decoration: none;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+.contact-btn{
+    width: 197px;
+    height: 50px;
+    padding: 10px 10px;
+    background-color: orange;
+    font-weight: 500px;
+    font-size: 20px;
+    border-radius: 10px;
+}
