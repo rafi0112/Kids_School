@@ -119,7 +119,7 @@ body{
 .banner img{
 
     height: 32rem;
-    width: 23rem;
+    width: 30rem;
 }
 .banner-left{
     flex-direction: column;
@@ -160,6 +160,10 @@ body{
     .banner-left p, h2{
         width: 20rem;
         text-align: center;
+    }
+    .banner img{
+        height: 28;
+        width: 21rem;
     }
     .banner-left button{
         margin-left: 70px;
