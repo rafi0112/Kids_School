@@ -157,8 +157,9 @@ body{
         margin-left: 20px;
         margin-right: 20px;
     }
-    .banner-left p{
+    .banner-left p, h2{
         width: 20rem;
+        text-align: center;
     }
 }
 
