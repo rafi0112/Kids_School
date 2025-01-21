@@ -157,7 +157,7 @@ body{
         margin-left: 20px;
         margin-right: 20px;
     }
-    .banner-left p, h2{
+    .banner-left p, h2, button{
         width: 20rem;
         text-align: center;
     }
