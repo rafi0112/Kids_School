@@ -188,11 +188,9 @@ marquee h3{
         text-align: center;
     }
     .banner img{
-        height: 26px;
         width: 21rem;
     }
     .banner img:hover{
-        height: 26px;
         width: 21rem;
     }
 }
