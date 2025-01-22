@@ -191,9 +191,10 @@ marquee h3{
         height: 26;
         width: 21rem;
     }
-    /* .banner-left button{
-        margin-left: 70px;
-    } */
+    .banner img:hover{
+        height: 32rem;
+        width: 28rem;
+    }
 }
 
 /* standard curriculum */
