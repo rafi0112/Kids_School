@@ -291,6 +291,10 @@ marquee h3{
     justify-content: center;
     margin-top: 30px;
     gap: 20px;
+    transition: transform 1s;
+}
+.arrow:hover{
+    transform: rotate(180deg);
 }
 .icon-container {
     display: flex;
@@ -301,7 +305,12 @@ marquee h3{
     height: 36px;
     border-radius: 50%;
     background-color: orange;
+    /* transition: transform 2s; */
+    /* transform: rotate(180deg); */
 }
+/* .icon-container:hover{
+    transform: rotate(180deg);
+} */
 .icon {
     color: white;
     font-size: 24px; 
